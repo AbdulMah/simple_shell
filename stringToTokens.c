@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  * *nbr_spaces - return the number of occurent of a string
