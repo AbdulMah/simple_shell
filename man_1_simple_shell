@@ -77,5 +77,4 @@ The primary prompt string, which defaults to “$ ”
 .SH HISTORY
 .SH BUGS
 .ip Expansions only work once per stdin read
-.SH AUTHOR
-Ademola Glory and Emmanuel Murairi
+
